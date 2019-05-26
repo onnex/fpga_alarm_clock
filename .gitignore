@@ -2,4 +2,8 @@
 *.swp
 syn/
 *db/*
-
+work/
+modelsim.ini
+Makefile
+vsim.wlf
+transcript
